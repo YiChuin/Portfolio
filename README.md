@@ -25,15 +25,14 @@ project-structure/
 │   ├── 玉山人工智慧公開挑戰賽—RAG與LLM在金融問答的應用/
 │   │   └──README.md           # 說明文件
 │   ├── 自動作文評分系統/
-│   │   ├── 自動作文評分系統-報告書.pdf
+│   │   └── 自動作文評分系統-報告書.pdf
 │   └── README.md       # 說明文件
 ├── The_Other_Certificates/
 │   ├── 113年國道智慧交通管理創意競賽-時間預測分析與探討_得獎證書.pdf
 │   ├── 2024【教育部 AI CUP】玉山人工智慧公開挑戰賽—RAG與LLM在金融問答的應用_得獎證書.pdf
 │   ├── NVIDIA - Building RAG Agents with LLMs_證照證書.pdf
 │   ├── 成績單-台北大學統計碩二.pdf
-│   ├── 成績單-國立高雄師範大學數學系應用數學組.pdf
-│   └── README.md               # 說明文件
+│   └── 成績單-國立高雄師範大學數學系應用數學組.pdf
 └── README.md                   # 專案總覽說明文件
 ```
 
